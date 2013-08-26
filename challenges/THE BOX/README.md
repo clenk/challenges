@@ -1,4 +1,4 @@
-#THE BOX TEST
+#THE BOX
 This is a challenge to test your fundamental css & html skills. There are many ways to slice the pie, we want to see how you approach it.
 
 ![](BOX-TEST-LAYOUT.png)
