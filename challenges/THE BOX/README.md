@@ -12,4 +12,4 @@ This is a challenge to test your fundamental css & html skills. There are many w
 * Graceful degradation is completely ok for unsupported browser features
 
 ### Bonus Points
-* If you can "rock star" this and add creative flare / code, we'll notice (and encourage it)
+* If you can "rock star" this and add creative flare / code, we'll notice (and encourage it).
