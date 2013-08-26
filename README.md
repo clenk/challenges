@@ -1,5 +1,4 @@
 #Challenges
-==========
 Included in this repository are 3 challenges that will test your ability to deal with situations faced by a developer on a daily basis.
 
 ### Instructions
