@@ -1,12 +1,20 @@
 <?php
 
-function my_strpos($haystack, $needle)
+function my_strpos(/* arguments go here! */)
 {
 	# Your code goes here!
 }
 
 $alphabet = 'abcdefghijklmnopqrstuvwxyz';
-$position = my_strpos($alphabet, 'r');
 
 # Should print "17"
-print($position . "\n");
+print(my_strpos($alphabet, 'r') . "\n");
+
+# Should print "6"
+print(my_strpos($alphabet, 'ghi') . "\n");
+
+# Should print ""
+var_dump(my_strpos($alphabet, 'u', 22));
+
+# Should print "bool(false)"
+var_dump(my_strpos($alphabet, 'A'));
