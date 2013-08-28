@@ -1,0 +1,43 @@
+div {
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.row {
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
+#first-row {
+	margin-top: 10px;
+}
+
+.green-dark {
+	background-color: #68884b;
+}
+
+.green-light {
+	background-color: #81bb4d;
+}
+
+.yellow {
+	background-color: #f1ab3c;
+}
+
+.blue-dark {
+	background-color: #2669a8;
+}
+
+.blue-medium {
+	background-color: #4794dc;
+}
+
+.blue-light1 {
+	background-color: #87bff4;
+}
+
+.blue-light2 {
+	background-color: #b6dbfe;
+}
+
