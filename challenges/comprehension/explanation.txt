@@ -1,0 +1,6 @@
+This program counts the number of times each unique word appears in the input text file. First it empties storage, so the word counts reset each time the program is run. The input file is read in line by line, and split up into words separated by the space character. Then each word is checked to ensure that it contains only alphanumeric characters. If so, the count for that word is incremented. If this is the first occurence of the word, the count is set to 1. Finally, each word and its number of occurences are printed on a new line.
+
+Variable Types:
+%: Variable
+$: Array
+@: Dictionary or Associative Array
